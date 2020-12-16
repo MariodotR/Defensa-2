@@ -1,10 +1,10 @@
 #SVM Condesada:
 
-video: 
+video: https://www.youtube.com/watch?v=-2TwLfazR2U
 
 #Predicción delitos NY:
 
-video: 
+video: https://www.youtube.com/watch?v=joEGJgXdzD8
 
 
 
